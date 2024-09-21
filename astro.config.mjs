@@ -5,7 +5,7 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://dev.d2l7gw9pgh8hks.amplifyapp.com", //TODO: Change this to redirect properly
+  site: "https://dev.d17npc0375isex.amplifyapp.com", //TODO: Change this to redirect properly
   integrations: [mdx(), sitemap(), react()],
   vite: {
     ssr: {
